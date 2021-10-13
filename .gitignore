@@ -1,0 +1,27 @@
+.DS_Store
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.history/
+test/unit/coverage
+test/e2e/reports
+selenium-debug.log
+# package.json
+package-lock.json
+config/
+# Editor directories and files
+.idea
+# .vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+/build/dev-server.js
+static/version.json
+
+static/version.json
+.swp
+.vscode/*
+package-lock.json
